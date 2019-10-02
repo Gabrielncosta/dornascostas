@@ -1,0 +1,51 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    font: "Noto Sans", sans-serif;
+
+}
+
+#transcriptcontainer {
+    background-color: #f1f1f1
+
+}
+
+.primary {
+    border: 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    outline: 0;
+    padding: 20px 80px 80px 80px;
+    vertical-align: baseline;
+    margin: 0 auto;
+    max-width: 924px;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
+    background-color: white;
+}
+
+.minuto {
+    margin-top: 35px;
+    margin-bottom: 30px;
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #000;
+    line-height: 100%;
+}
+
+p {
+    line-height: 120%;
+    word-spacing: 1px;
+    font-size: 1.2em;
+    margin-bottom: 1.6842em;
+    color: #333;
+}
+
+.depoimento {
+    margin-bottom: 25px;
+    padding: 25px 25px 25px 25px;
+    background: #ffd297;
+    border-left: 5px solid #f39200;
+    font-style: italic;
+}
